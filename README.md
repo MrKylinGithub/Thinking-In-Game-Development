@@ -11,6 +11,8 @@ You can also follow my social media accounts below:
 - [YouTuBe](https://www.youtube.com/@LearnCocos)
 - [LinkedIn](https://www.linkedin.com/in/mrkylin/)
 - [Twitter](https://twitter.com/kylin_cc)
+- [Cocos Store - Kylin's Item List](https://store.cocos.com/app/en/search?name=%E9%BA%92%E9%BA%9F%E5%AD%90)
+- [Cocos Forum - Kylin's Topics](https://discuss.cocos2d-x.org/u/mr.kylin/activity/topics)
 
 Artiles are listed as follows:
 
