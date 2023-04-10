@@ -8,9 +8,9 @@
 
 你也可以关注我的其它媒体账号：
 
-- [知乎](https://www.zhihu.com/people/qilinzi666) 
-- [B站](https://space.bilibili.com/649675584) 
-- [公众号](https://mp.weixin.qq.com/s/My_nx1DwWvHvB7LwpWoesQ) 
+- [知乎](https://www.zhihu.com/people/qilinzi666)
+- [B站](https://space.bilibili.com/649675584)
+- [公众号](https://mp.weixin.qq.com/s/My_nx1DwWvHvB7LwpWoesQ)
 - [Cocos Store](https://store.cocos.com/app/search?name=%E9%BA%92%E9%BA%9F%E5%AD%90)
 - [官方论坛](https://forum.cocos.org/u/boyue/activity/topics)
 

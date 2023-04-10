@@ -17,3 +17,4 @@ You can also follow my social media accounts below:
 Artiles are listed as follows:
 
 - [Guide to Cocos Cyberpunk Source Code](./guide-to-cocos-cyberpunk/readme-en.md)
+- TypeScript Programming Guide for Game Development Beginners using Cocos Creator [...]
