@@ -1,12 +1,17 @@
-# Game Development Articles 
+# Game Development Articles
 
->Author: Kylin
+>Author: Mr Kylin
+
+English | [中文](./README-ZH.md)
 
 This is a set of articles for game development, mostly for Cocos Creator.
 
 You can also follow my social media accounts below:
 
-[YouTuBe](https://www.youtube.com/@LearnCocos) | [LinkedIn](https://www.linkedin.com/in/mrkylin/) | [Twitter](https://twitter.com/kylin_cc)
+- [YouTuBe](https://www.youtube.com/@LearnCocos)
+- [LinkedIn](https://www.linkedin.com/in/mrkylin/)
+- [Twitter](https://twitter.com/kylin_cc)
 
-List:
-- [Guide to Cocos Cyberpunk Source Code - EN]() | [ Cocos Cyberpunk 源码导读 - 中文]()
+Artiles are listed as follows:
+
+- [Guide to Cocos Cyberpunk Source Code](./guide-to-cocos-cyberpunk/readme-en.md)
