@@ -1,4 +1,6 @@
-# Game Development Articles by Kylin
+# Game Development Articles 
+
+>Author: Kylin
 
 This is a set of articles for game development, mostly for Cocos Creator.
 
