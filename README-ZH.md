@@ -6,6 +6,8 @@
 
 这个库包含了麒麟子写的一些关于游戏开发相关的教程、思考、案例相关文章。
 
+我主要使用 [Cocos Creator](www.cocos.com)，一个开源的 2D&3D 游戏引擎，可以发布为 iOS、Android、HTML5、小游戏。 多一个渠道，多一份收获。
+
 你也可以关注我的其它媒体账号：
 
 - [知乎](https://www.zhihu.com/people/qilinzi666)
