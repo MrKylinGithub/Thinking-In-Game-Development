@@ -1,4 +1,4 @@
-# Game Development Articles
+# Thinking In Game Development
 
 >Author: Mr Kylin
 
