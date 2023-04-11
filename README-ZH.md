@@ -1,7 +1,5 @@
 # 关于游戏开发的思考
 
->作者：麒麟子 MrKylin
-
 [English](./README.md) | 中文
 
 这个库包含了麒麟子写的一些关于游戏开发相关的教程、思考、案例相关文章。
@@ -16,6 +14,6 @@
 - [Cocos Store](https://store.cocos.com/app/search?name=%E9%BA%92%E9%BA%9F%E5%AD%90)
 - [官方论坛](https://forum.cocos.org/u/boyue/activity/topics)
 
-以下为系列文章列表：
+资源列表：
 
 - [Cocos Cyberpunk 源码导读](./guide-to-cocos-cyberpunk/readme-zh.md)
