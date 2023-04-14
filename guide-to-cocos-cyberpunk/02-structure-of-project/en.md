@@ -10,7 +10,7 @@ For someone who didn't know Cocos Cyberpunk, it is an open source 3D TPS (Third-
 
 The purpose of developing Cocos Cyberpunk is to showcase the Cocos Engine's ability to create complex 3D games on multiple platforms and to motivate the developers in Cocos community to learn game development.  
 
-This series of articles could be treated as a project guide of the Cocos Cyberpunk that is intended to help you and save your time.
+This series of articles could be treated as a project guide to the Cocos Cyberpunk that is intended to help you and save your time.
 
 Get it for free:
 [https://store.cocos.com/app/detail/4543](https://store.cocos.com/app/detail/4543)
@@ -19,7 +19,7 @@ Get it for free:
 
 Before we get started, let's list out the features provided in Cocos Cyberpunk again.
 
-- 1、**Complete gameplay framework for TPS games**
+- 1、**Comprehensive TPS gameplay framework**
 - 2、**A reusable implementation of Custom Render Pipeline**
 - 3、**Forward & Deferred Rendering, PostProcessing**
 - 4、**Usage of Reflection Probes**
@@ -32,10 +32,10 @@ In this article, we will locate the files that correspond to the features above.
 
 Before we begin, it's better to spend a few minutes to play it. So you can get a feel for what it looks like.
 
-1. Open the **scene-game-start** scene and click on the preview button to enter the game, , you will see as below.
+1. Open the scene named **scene-game-start** and click on the preview button to run the game, you will see the following screen.
 ![02.png](images/02.png)
 
-2. Click **START** button, move on to the gameplay.
+2. Click the **START** button, proceed to the gameplay.
 ![03.png](images/03.png)
 
 3. There is a camera that guides you through the entire scene. You can click on the "START" button to begin playing.
@@ -45,7 +45,7 @@ Before we begin, it's better to spend a few minutes to play it. So you can get a
 
 ## Structure
 
-Next, let's take a look at the project's structure.
+Next, let's move on to the project's structure.
 
 ![05.png](images/05.png)
 
@@ -75,7 +75,7 @@ The cube textures produced by the Reflection Probe baking system will be automat
 
 ### 6、scene-development
 
-This folder is used to store scenes for testing purpose, such as character controller, bullet, IK, rayscat and so on.
+This folder is used to store scenes for testing purpose, such as character controller, bullet, IK, raycast and so on.
 
 ### 7、scripts
 
@@ -123,7 +123,7 @@ If you can't wait, you can explore it on you own with the following prompts to g
 - pipeline/graph
 - pipeline/passes
 
-## Relfection Probe
+## Reflection Probe
 
 ![09.png](images/09.png)
 
