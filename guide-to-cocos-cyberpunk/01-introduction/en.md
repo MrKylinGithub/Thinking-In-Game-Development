@@ -4,7 +4,6 @@
 
 Hey everyone, Kylin here! Today, I am thrilled to share with you an amazing 3D shooter game project that I think you'll love. Not only is it 100% open source, but it is also an excellent resource for those who are learning game development and looking for a solid foundation to create their own games. So, let's dive in and check out what this incredible project has to offer!
 
-
 Cocos Cyberpunk is an open source 3D TPS (Third-person Shooter) game, developed by the Cocos Engine team, which can be published to iOS, Android and Web.
 
 The purpose of developing Cocos Cyberpunk is to showcase the Cocos Engine's ability to create complex 3D games on multiple platforms and to motivate the developers in Cocos community to learn game development.  
