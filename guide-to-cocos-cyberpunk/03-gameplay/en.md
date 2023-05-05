@@ -456,15 +456,15 @@ Let's continue with the **addPlayer** in **level.ts**.
 
 ```ts
 public addPlayer () {
-    //获得 player 的 prefab
+    //get the prefab of player
     const prefab = ResCache.Instance.getPrefab(this._data.prefab_player);
-    //通过 prefab 生成 player 实例
+    //create the instance of player by prefab
     const resPlayer = Res.inst(prefab, this._objectNode!, this._data.spawn_pos);
-    // 获取 Actor 组件
+    // get Actor component
     this._player = resPlayer.getComponent(Actor)!;
-    // 标记这个 actor 为主角
+    // mark this actor as the Player
     this._player.isPlayer = true;
-    // 使用 data-player.json 初始化这个 actor
+    // initialize this actor using the data from data-player.json
     this._player.init('data-player');
 }
 ```
