@@ -18,3 +18,6 @@ I'm mainly using [Cocos Creator](www.cocos.com), which is an open source game en
 
 - [Guide to Cocos Cyberpunk Source Code](./guide-to-cocos-cyberpunk/readme-en.md)
 - TypeScript Programming Guide for Game Development Beginners using Cocos Creator [...]
+
+- [Make a 3D Game with AIGC Tools in 2 Hours](./aigc/2-hours-game-dev-with-aigc/en.md)
+  
