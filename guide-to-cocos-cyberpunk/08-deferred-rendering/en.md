@@ -1,4 +1,4 @@
-#
+# A Comprehensive Explanation of Deferred Rendering
 
 ![01.png](./images/01.jpeg)
 
@@ -352,7 +352,6 @@ void main () {
     fragColor2 = vec4(s.emissive + lightmapColor, occlusion);
     fragColor3 = vec4(s.position, 1.);
   }
-
 }     
 ```
 
@@ -604,7 +603,7 @@ Therefore:
 
 ## Commonly Used Optimization Methods
 
-延迟渲染的优化方法主要从两个方面着手：
+The optimization of Deferred Rendering mainly focuses on the following two aspects.
 
 **1. Limit the resolution of render texture in the GBuffer**
 

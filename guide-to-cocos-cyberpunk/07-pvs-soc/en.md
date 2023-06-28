@@ -1,4 +1,4 @@
-#
+# Static-Occlusion-Culling, A great solution for improving culling performance during rendering
 
 ![01.png](./images/01.png)
 

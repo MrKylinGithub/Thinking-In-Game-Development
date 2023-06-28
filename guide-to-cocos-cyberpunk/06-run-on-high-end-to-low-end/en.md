@@ -1,4 +1,4 @@
-# Make the game run smoothly on high-end, mid-range, and low-end devices
+# Make your games run smoothly on high-end, mid-range, and low-end devices
 
 When you've made an excellent 3D game, you definitely want it to run on more devices, not just high-end ones, as this would mean losing many users. In this article, I will share the methods I've learned from over a decade of 3D game development to make a game run smoothly on high-end, mid-range, and low-end devices.
 
